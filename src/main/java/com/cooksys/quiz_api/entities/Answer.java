@@ -1,11 +1,6 @@
 package com.cooksys.quiz_api.entities;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.JoinColumn;
-import javax.persistence.ManyToOne;
-
+import jakarta.persistence.*;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
